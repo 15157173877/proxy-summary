@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4ba5d65-2750-4c54-9485-f1d7595598c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__cglib_cglib_3_2_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/libraries/Maven__org_ow2_asm_asm_5_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/uiDesigner.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../proxysummary/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/../proxysummary/out/" />
@@ -90,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/../proxysummary/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="349">
+              <first_editor relative-caret-position="446">
                 <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="531" selection-end-column="0" />
                 <folding>
                   <marker date="1523523176432" expanded="true" signature="1460:1606" ph="package com.dao.proxy....;&#10;/**" />
@@ -177,6 +167,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../proxysummary" />
   </component>
   <component name="GradleLocalSettings">
@@ -229,7 +220,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -461,6 +454,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -661,8 +655,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523511726302</updated>
-      <workItem from="1523511728586" duration="6684000" />
+      <workItem from="1523511728586" duration="6754000" />
     </task>
+    <task id="LOCAL-00001" summary="去掉配置文件">
+      <created>1523523387915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523523387915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -686,7 +688,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6684000" />
+    <option name="totallyTimeSpent" value="6754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="5" width="1920" height="1057" extended-state="0" />
@@ -711,8 +713,8 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295699" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -727,6 +729,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="去掉配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉配置文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -839,7 +845,7 @@
     <entry file="file://$PROJECT_DIR$/../proxysummary/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="349">
+          <first_editor relative-caret-position="446">
             <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="531" selection-end-column="0" />
             <folding>
               <marker date="1523523176432" expanded="true" signature="1460:1606" ph="package com.dao.proxy....;&#10;/**" />
